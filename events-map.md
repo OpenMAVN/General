@@ -110,10 +110,8 @@
 - UserManagmentRabbitMQ 
 - WalletManagmentRabbitMQ 
 - BonusManagmentRabbitMQ 
-- EmaarIntegrationRabbitMQ 
 - NotificationSystemRabbitMQ 
 - ReferralRabbitMQ 
-- CampaignRabbitMQ 
 - SchedulerRabbitMQ 
 - PrivateBlockchainRabbitMQ
 
