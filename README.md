@@ -1,5 +1,5 @@
 # General
-## What is this alliance is about?
+## What is this alliance is about? 
 
 We aim to create a community to build up a blockchain base system for quick, efficient and traceable help delivery, and supply chain efficiency in times of crisis such as COVID-19.
 
